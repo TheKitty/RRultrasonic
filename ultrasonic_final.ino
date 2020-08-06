@@ -3,7 +3,7 @@
  Uses: Ultrasonic Library (Copy to Arduino Library folder)
  http://iteadstudio.com/store/images/produce/Sensor/HCSR04/Ultrasonic.rar
  original by terry@yourduino.com 
- Version by Mike Barela based on ideas of Dick Hill*/
+ Version by Anne Barela based on ideas of Dick Hill*/
 
 /*-----( Import needed libraries )-----*/
 #include "Ultrasonic.h"
